@@ -1,0 +1,66 @@
+.common{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    background-color: lavender;
+    color: black;
+    height: 100px;
+    line-height: 100px;
+}
+nav{
+    background-color: lightpink;
+    padding: 10px;
+    overflow: hidden;
+}
+nav a{
+    float: none;
+    color: black;
+    padding: 10px 13px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.savannah{
+    background-color: whitesmoke;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    text-align: center;
+    font-weight: lighter;
+}
+ol{
+    list-style-position: inside;
+    font-size: large;
+}
+ul{
+    list-style-position: inside;
+    font-size: small;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+.tableau{
+    background-color: whitesmoke;
+    padding: 8px;
+}
+.video{
+    background-color: whitesmoke;
+    padding: 10px;
+}
+a{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+#top{
+    text-decoration: underline;
+}
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
